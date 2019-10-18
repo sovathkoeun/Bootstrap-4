@@ -1,0 +1,76 @@
+<div class="container mt-4">
+<h1>bootstrap 4</h1>
+<br>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Firstname</th>
+            <th>Lastname</th>
+            <th>E-mail</th>
+            <th>Phone</th>
+            <th>Schoo</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Phirom</td>
+            <td>prom</td>
+            <td>phirom2020@gmail.com</td>
+            <td>0123456789</td>
+            <td>school PNC</td>
+        </tr>
+        <tr>
+            <td>Rathanak</td>
+            <td>puong</td>
+            <td>rathanak2020@gmail.com</td>
+            <td>0123456789</td>
+            <td>school PNC</td>
+        </tr>
+        <tr>
+            <td>senghour</td>
+            <td>Seng</td>
+            <td>senghour2020@gmail.com</td>
+            <td>0123456789</td>
+            <td>school PNC</td>
+        </tr>
+        <tr>
+            <td>son</td>
+            <td>son</td>
+            <td>son2020@gmail.com</td>
+            <td>0123456789</td>
+            <td>school PNC</td>
+        </tr>
+        <tr>
+            <td>phanan</td>
+            <td>neom</td>
+            <td>phanan2020@gmail.com</td>
+            <td>0123456789</td>
+            <td>school PNC</td>
+        </tr>
+        <tr>
+            
+            <td>sovath</td>
+            <td>koeun</td>
+            <td>svoath2020@gmail.com</td>
+            <td>0123456789</td>
+            <td>school PNC</td>
+        </tr>
+        <tr>
+            <td>puthy</td>
+            <td>ouk</td>
+            <td>puthy2020@gmail.com</td>
+            <td>0123456789</td>
+            <td>school PNC</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<img src="image/sovath.jpg" alt="picture" class="rounded mx-auto d-block img-thumbnail img-fluid" width="600" height="500">
+<br>
+<br>
+<img src="image/images.jpg" alt="PNC" class="rounded mx-auto d-block img-fluid" width="600" height="600">
+<br>
+<br>
+<img src="image/ks.jpeg" alt="image" class="rounded mx-auto d-block img-fluid" width="600" height="500">
+<br>
+<img src="" alt="">
